@@ -1,6 +1,6 @@
 # AccessibleFullBodyCalibrator
 
-![2023-10-21 15 28 02](https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/assets/14206961/e2be3e99-fa19-469f-8dad-0d2b2aa6ff56)
+![2023-10-21 15 28 02](https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/assets/14206961/a335fdc6-501d-45f9-90a9-b30fb62ad588)
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that adds a button to the T-Pose Calibration step of the Full Body Calibrator to allow completing the step if you are unable to use two controllers. The button will say "Map Trackers".
 
